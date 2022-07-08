@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.473a8dfe.css",
-    "main.js": "/static/js/main.3463905a.js",
+    "main.js": "/static/js/main.1aa27eab.js",
     "static/media/Weather-app-mockup.png": "/static/media/Weather-app-mockup.a9d4f4c1e10058c1a598.png",
     "static/media/Revealed-dating-mockup.png": "/static/media/Revealed-dating-mockup.e9a64fa0274146d0c282.png",
     "static/media/a3-music-app-image.jpg": "/static/media/a3-music-app-image.8c40325e542801f7256a.jpg",
@@ -16,10 +16,10 @@
     "static/media/javascript-bw.png": "/static/media/javascript-bw.11bf0f04ea9ef6e122dd.png",
     "index.html": "/index.html",
     "main.473a8dfe.css.map": "/static/css/main.473a8dfe.css.map",
-    "main.3463905a.js.map": "/static/js/main.3463905a.js.map"
+    "main.1aa27eab.js.map": "/static/js/main.1aa27eab.js.map"
   },
   "entrypoints": [
     "static/css/main.473a8dfe.css",
-    "static/js/main.3463905a.js"
+    "static/js/main.1aa27eab.js"
   ]
 }

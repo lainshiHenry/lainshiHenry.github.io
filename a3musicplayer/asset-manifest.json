@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cab8c364.css",
+    "main.js": "/static/js/main.30fd7c68.js",
+    "static/js/787.5791f6bb.chunk.js": "/static/js/787.5791f6bb.chunk.js",
+    "static/media/precious_to_us.mp3": "/static/media/precious_to_us.2d99bc4e7aebc84132bc.mp3",
+    "static/media/buzama.mp3": "/static/media/buzama.e6c2ebeaa198170c0205.mp3",
+    "static/media/my_dictionary.mp3": "/static/media/my_dictionary.cfa7c2f2117335cb1c6d.mp3",
+    "static/media/second_shot.mp3": "/static/media/second_shot.3333f30c0d98374c46fc.mp3",
+    "static/media/step.mp3": "/static/media/step.d14dac7ca1d05f642e84.mp3",
+    "static/media/tenma.png": "/static/media/tenma.5519ae343979861f7c39.png",
+    "static/media/sakuya.png": "/static/media/sakuya.b71644cb6a5b6afa7fbb.png",
+    "static/media/citron.png": "/static/media/citron.7f8d1a3f39e978f9163c.png",
+    "static/media/banri.png": "/static/media/banri.b92cc537ca504069134e.png",
+    "static/media/azami.png": "/static/media/azami.c0311d4f62bba1d7645f.png",
+    "static/media/tsumugi.png": "/static/media/tsumugi.d0648394018ed9ade67b.png",
+    "index.html": "/index.html",
+    "main.cab8c364.css.map": "/static/css/main.cab8c364.css.map",
+    "main.30fd7c68.js.map": "/static/js/main.30fd7c68.js.map",
+    "787.5791f6bb.chunk.js.map": "/static/js/787.5791f6bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cab8c364.css",
+    "static/js/main.30fd7c68.js"
+  ]
+}
